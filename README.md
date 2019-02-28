@@ -1,12 +1,12 @@
 # Awesome Finance [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A list of open source finance projects.
+A list of financial resources.
 
-- [Awesome Python](#awesome-python)
-    - [Admin Panels](#admin-panels)
+- [Awesome Finance](#awesome-finance)
+    - [Open Source](#open-source)
     
-## List
+## Open Source
 
-*Description.*
+*Open source projects.*
 
 * [zipline](https://github.com/quantopian/zipline) - Zipline, a Pythonic Algorithmic Trading Library.
