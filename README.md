@@ -10,3 +10,4 @@ A list of financial resources.
 *Open source projects.*
 
 * [zipline](https://github.com/quantopian/zipline) - Zipline, a Pythonic Algorithmic Trading Library.
+* [IB Controller](https://github.com/ib-controller/ib-controller) - Automation of Interactive Brokers TWS.
