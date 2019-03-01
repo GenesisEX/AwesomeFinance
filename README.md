@@ -11,3 +11,4 @@ A list of financial resources.
 
 * [zipline](https://github.com/quantopian/zipline) - Zipline, a Pythonic Algorithmic Trading Library.
 * [IB Controller](https://github.com/ib-controller/ib-controller) - Automation of Interactive Brokers TWS.
+* [High Frequency Trading Model with IB](https://github.com/jamesmawm/High-Frequency-Trading-Model-with-IB) - A high-frequency trading model using Interactive Brokers API with pairs and mean-reversion in Python.
