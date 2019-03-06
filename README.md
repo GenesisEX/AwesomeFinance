@@ -4,6 +4,7 @@ A list of financial resources.
 
 - [Awesome Finance](#awesome-finance)
     - [Open Source](#open-source)
+    - [Tools](#tools)
     
 ## Open Source
 
@@ -16,3 +17,18 @@ A list of financial resources.
 * [High Frequency Trading Model with IB](https://github.com/jamesmawm/High-Frequency-Trading-Model-with-IB) - A high-frequency trading model using Interactive Brokers API with pairs and mean-reversion in Python.
 * [tribeca](https://github.com/michaelgrosner/tribeca) - A high frequency, market making cryptocurrency trading platform in node.js
 * [Krypto trading bot](https://github.com/ctubio/Krypto-trading-bot) - Self-hosted crypto trading bot (automated high frequency market making) in node.js, angular, typescript and c++
+
+## Tools
+
+*Tools.*
+
+* [portfolio123](https://portfolio123.com) - Portfolio123
+* [quantopian](https://quantopian.com) - Quantopian
+* [quandl](https://quandl.com) - Quandl
+* [collective2](https://collective2.com) - Collective2
+
+## Media
+
+*Media.*
+
+* [finviz](https://finviz.com) - Finviz
