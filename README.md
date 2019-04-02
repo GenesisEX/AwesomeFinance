@@ -48,4 +48,6 @@ A list of financial resources.
 *Data.*
 
 * [IEX Cloud](https://iexcloud.io/) - IEX Cloud
+* [IEX API](https://iextrading.com/developer/docs/) - IEX API
+
 
