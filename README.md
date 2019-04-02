@@ -5,6 +5,9 @@ A list of financial resources.
 - [Awesome Finance](#awesome-finance)
     - [Open Source](#open-source)
     - [Tools](#tools)
+    - [Media](#media)
+    - [Brokers](#brokers)
+    - [Data](#data)
     
 ## Open Source
 
@@ -38,3 +41,11 @@ A list of financial resources.
 *Brokers.*
 
 * [Interactive Brokers](https://interactivebrokers.com) - Interactive Brokers
+* [Alpaca](https://alpaca.markets) - Alpaca
+
+## Data
+
+*Data.*
+
+* [IEX Cloud](https://iexcloud.io/) - IEX Cloud
+
