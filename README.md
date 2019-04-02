@@ -15,6 +15,7 @@ A list of financial resources.
 
 * [zipline](https://github.com/quantopian/zipline) - Zipline, a Pythonic Algorithmic Trading Library.
 * [Lean](https://github.com/QuantConnect/Lean) - Lean Algorithmic Trading Engine by QuantConnect (C#, Python, F#).
+* [Backtrader](https://github.com/backtrader/backtrader/) - Python Backtesting library for trading strategies
 * [talib](https://github.com/mrjbq7/ta-lib) - Python wrapper for TA-Lib
 * [IB Controller](https://github.com/ib-controller/ib-controller) - Automation of Interactive Brokers TWS.
 * [High Frequency Trading Model with IB](https://github.com/jamesmawm/High-Frequency-Trading-Model-with-IB) - A high-frequency trading model using Interactive Brokers API with pairs and mean-reversion in Python.
