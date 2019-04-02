@@ -49,5 +49,7 @@ A list of financial resources.
 
 * [IEX Cloud](https://iexcloud.io/) - IEX Cloud
 * [IEX API](https://iextrading.com/developer/docs/) - IEX API
+* [Polygon](https://polygon.io/) - Polygon
+
 
 
