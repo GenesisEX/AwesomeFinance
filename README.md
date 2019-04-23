@@ -3,12 +3,19 @@
 A list of financial resources.
 
 - [Awesome Finance](#awesome-finance)
+    - [Other Awesome List](#other-awesome-list)
     - [Open Source](#open-source)
     - [Tools](#tools)
     - [Media](#media)
     - [Brokers](#brokers)
     - [Data](#data)
-    
+
+## Other Awesome List
+
+*Other awesome list.*
+
+* [grananqvist](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading) - Awesome-Quant-Machine-Learning-Trading
+
 ## Open Source
 
 *Open source projects.*
